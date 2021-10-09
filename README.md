@@ -50,7 +50,7 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=mkos&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for mkos">
 </div>
 
 <details> 
