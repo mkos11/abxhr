@@ -1,11 +1,11 @@
 <h2 align="center">
-    Welcome to Abshar's Profile! 
+    Welcome to Mrunal's Profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
 
-I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campus 🎓
+I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 
 
 ## 🛠️ Skills and Technologies
@@ -57,8 +57,8 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
   <summary>💻 GitHub Profile Stats</summary>
   <div align="center">
     <br/>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abxhr&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mkos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkos&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mkos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkos&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
@@ -76,8 +76,6 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
-    <a href="https://twitter.com/abxhraslam"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/absharaslam/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/abxhr/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
     
 </p>
